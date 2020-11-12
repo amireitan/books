@@ -5,12 +5,13 @@
 - Expirememnt with Python-Tornado for the first time...
 
 ## Context
-- Backend - Python Tornado 
+- Backend - Python Tornado & Motor-Tornado (MongoDB)
 - FrontEnd - react & context API
 
 
 ## Instructions
 - Clone project 
+- Pre installation - install mongoDB & run mongod 
 - Open cmd in folder location and Install all npm dependecies:
 
 
